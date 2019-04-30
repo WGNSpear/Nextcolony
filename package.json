@@ -1,0 +1,20 @@
+{
+  "name": "socialhelper",
+  "version": "1.0.0",
+  "description": "A discord bot to buy followers, likes, youtube views etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Spear",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "https-proxy-agent": "^2.2.1",
+    "moment": "^2.24.0",
+    "node-fetch": "^2.4.1",
+    "npm": "^6.9.0",
+    "request": "^2.88.0",
+    "weather-js": "^2.0.0"
+  }
+}
